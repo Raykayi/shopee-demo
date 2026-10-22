@@ -496,5 +496,5 @@ header{
     text-decoration: none;
     font-size: 1.4rem;
     color: var(--text-color);
-    display: none;
+    display: block;
 }
